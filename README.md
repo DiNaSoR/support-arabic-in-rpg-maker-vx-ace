@@ -1,0 +1,1 @@
+support-arabic-in-rpg-maker-vx-ace
